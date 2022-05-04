@@ -1,7 +1,5 @@
 ## cs231n_assignments_2021
 
----
-
 参考：Lectures：https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 
 Notes：https://cs231n.github.io/
@@ -30,7 +28,7 @@ Slides：http://cs231n.stanford.edu/slides/2021/
 
 ### Q1: Multi-Layer Fully Connected Neural Networks (16%)
 
-**FullyConnectedNets.ipynb ** 多隐层MLP、带动量的SGD、RMSProp/Adam
+**FullyConnectedNets.ipynb** 多隐层MLP、带动量的SGD、RMSProp/Adam
 
 ### Q2: Batch Normalization
 
@@ -56,7 +54,7 @@ torch.Tensor、torch.nn.Moudle、torch.nn.Sequential
 
 ### Q2: Image Captioning with Transformers 
 
-**Transformer_Captioning.ipynb **实现Transformer Decoder中的多头注意力机制与位置编码
+**Transformer_Captioning.ipynb**实现Transformer Decoder中的多头注意力机制与位置编码
 
 ### Q3: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images 
 
